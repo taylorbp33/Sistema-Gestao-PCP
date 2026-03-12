@@ -211,6 +211,3 @@ Este sistema centraliza tudo isso em uma única aplicação, com:
 
 ---
 
-## Autor
-**Seu Nome** - LinkedIn: (adicione aqui)
-- Portfólio: (adicione aqui)
